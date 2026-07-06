@@ -18,3 +18,51 @@ The **HR Attrition Dashboard** is an interactive Microsoft Excel dashboard desig
 - Easy-to-understand visualizations
 
 ---
+## 📈 Dashboard KPIs
+
+- **Total Employees:** 99
+- **Total Exits:** 17
+- **Voluntary Exits:** 15
+- **Involuntary Exits:** 2
+- **Attrition Rate:** 14%
+
+---
+
+## 📊 Dashboard Visualizations
+
+### 1. KPI Cards
+Displays overall HR metrics:
+- Total Employees
+- Total Exits
+- Voluntary Exits
+- Involuntary Exits
+- Attrition Percentage
+
+### 2. Tenure Wise Exit Distribution
+Shows employee exits based on years of service:
+- 1–3 Years
+- 3–6 Years
+- 6–9 Years
+
+### 3. Exit Reason Distribution
+Analyzes the reasons employees left the organization:
+- Better Opportunity
+- Conflict with Manager/Colleagues
+- Health Reasons
+- Relocation
+
+### 4. Month Wise Exit Trend
+Displays monthly employee exits to identify seasonal patterns.
+
+---
+
+## 🛠 Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Conditional Formatting
+- Excel Formulas
+
+---
