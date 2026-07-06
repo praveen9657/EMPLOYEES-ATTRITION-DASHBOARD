@@ -1,5 +1,5 @@
 # EMPLOYEES-ATTRITION-DASHBOARD
-# 📊 HR Attrition Dashboard (Excel)
+## 📊 HR Attrition Dashboard (Excel)
 
 ## 📌 Project Overview
 
