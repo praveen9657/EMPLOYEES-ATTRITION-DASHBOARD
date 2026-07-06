@@ -66,3 +66,12 @@ Displays monthly employee exits to identify seasonal patterns.
 - Excel Formulas
 
 ---
+**## 📂 Files
+
+```
+HR DASHBOARD FOR ATTRITION FINAL.xlsx
+README.md
+Dashboard Screenshot.png
+```
+
+---**
