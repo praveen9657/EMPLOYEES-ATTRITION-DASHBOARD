@@ -55,24 +55,36 @@ Analyzes the reasons employees left the organization:
 Displays monthly employee exits to identify seasonal patterns.
 
 ---
-
-## 🛠 Tools Used
-
-- Microsoft Excel
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Conditional Formatting
-- Excel Formulas
-
----
-## 5. 📂 Files
+## 📂 Files
  
  - <a href="https://github.com/praveen9657/EMPLOYEES-ATTRITION-DASHBOARD/blob/main/HR%20DASHBOARD%20FOR%20ATTRITION%20FINAL.xlsx">Dataset</a>
 
 ---
+## 🎯 Business Insights
 
-## 6. Dashboard
+- Attrition rate is **14%**.
+- Most employees leave after **3–6 years** of service.
+- **Better Opportunity** is the leading reason for employee exits.
+- Exit count peaked during **June**.
+- Dashboard filters allow detailed analysis by department and employee grade.
+
+---
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Analysis
+- Dashboard Design
+- Pivot Tables
+- Pivot Charts
+- Data Visualization
+- HR Analytics
+- Excel Reporting
+
+---
+## Dashboard Preview
 
 <img width="1302" height="799" alt="Excel ss" src="https://github.com/user-attachments/assets/b2ccd5ee-7204-4f56-9f27-ef68de2113bf" />
+
+---
 
