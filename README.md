@@ -87,4 +87,15 @@ Displays monthly employee exits to identify seasonal patterns.
 <img width="1302" height="799" alt="Excel ss" src="https://github.com/user-attachments/assets/b2ccd5ee-7204-4f56-9f27-ef68de2113bf" />
 
 ---
+## 📌 Conclusion
 
+The **HR Attrition Dashboard** provides a clear and interactive view of employee attrition trends within the organization. By analyzing key metrics such as total exits, attrition rate, tenure-wise exits, exit reasons, and monthly trends, the dashboard helps identify the primary factors contributing to employee turnover.
+
+Key findings include:
+- The overall attrition rate is **14%**, with **17 employee exits** out of **99 employees**.
+- Most employees left after **3–6 years** of service.
+- **Better Opportunity** was the leading reason for employee resignation, accounting for **60%** of exits.
+- Employee exits peaked in **June**, indicating a potential seasonal trend.
+- Interactive filters for **Department** and **Grade** enable detailed analysis for better HR decision-making.
+
+This dashboard demonstrates how **Microsoft Excel**, Pivot Tables, Pivot Charts, and Slicers can be used to transform raw HR data into meaningful insights, enabling organizations to make data-driven decisions that improve employee retention and workforce planning.
